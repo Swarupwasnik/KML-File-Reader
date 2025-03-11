@@ -1,0 +1,14 @@
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+table {
+  margin: 20px 0;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px 12px;
+  text-align: left;
+}
